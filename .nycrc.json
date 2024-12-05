@@ -1,0 +1,6 @@
+{
+  "all": true,
+  "include": ["src/**/*.js", "tests/unitTests/**/*.test.js"],
+  "exclude": ["**/*.spec.js"],
+  "reporter": ["html", "text"]
+}

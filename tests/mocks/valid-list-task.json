@@ -1,0 +1,12 @@
+[
+  {
+    "description": "Wake up at seven o'clock",
+    "status": false,
+    "date": "26/10/2024"
+  },
+  {
+    "description": "Play videogame",
+    "status": true,
+    "date": "30/10/2024"
+  }
+]
